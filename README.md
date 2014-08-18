@@ -3,6 +3,6 @@ gitExample
 I add something
 ==========
 
-Tortoise git edit second
+Tortoise git edit third
 
 console
